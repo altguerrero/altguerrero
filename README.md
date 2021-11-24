@@ -1,5 +1,6 @@
-### Hi there 👋
+![altguerrero](/assets/img/header.gif)
 
+<h1 align="center" >Hi there 👋, I'm Jose 🧑‍💻</h1>
 <!--
 **altguerrero/altguerrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
